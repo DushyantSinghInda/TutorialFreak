@@ -1,0 +1,122 @@
+
+.online-compiler{
+    padding: 30px 0;
+}
+.heading-wrapper h2{
+    font-size: 36px;
+    color: #212529;
+    margin-bottom: 20px;
+}
+.compiler-column a{
+    transition: all .3s ease-in-out;
+}
+.card-body{
+    padding: 16px 20px;
+    box-shadow: 0 8px 12px rgba(2,30,84,.06);
+}
+.compilor-icon-wrapper{
+    width: 40px;
+    height: 40px;
+    color: white;
+    margin-bottom: 15px;
+    background-color: #6b46ff;
+}
+.card-body h5{
+    font-size: 17px;
+    color: #101828;
+    font-weight: 500;
+}
+.card-body span{
+    color: #6b46ff;
+    font-size: 13px;
+    font-weight: 500;
+
+}
+
+.setup-wrapper{
+    padding: 77px 100px 80px;
+    border-radius: 16px;
+    background-position: bottom;
+    background-size: 100%;
+}
+.setup-wrapper .content-wrapper h2{
+    font-size: 36px;
+    color: #212529;
+}
+.setup-wrapper .content-wrapper p{
+    margin-bottom: 40px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #475467;
+}
+.exp-all-btn{
+    border-color: #d0d5dd;
+    color: #344054;
+    background: #fff;
+}
+.exp-all-btn:hover{
+    color: white;
+    background: #6b46ff;
+}
+.learning-content-wrapper h2{
+    font-weight: 600;
+    font-size: 36px;
+    color: #212529;
+    line-height: 44px;
+    margin-bottom: 20px;
+}
+.learning-content-wrapper p{
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 35px;
+    color: #475467;
+}
+.apps-card{
+    width: 100%;
+    background: linear-gradient(180deg,rgba(249,250,251,0),#f9fafb);
+    border: .931553px solid #d0d5dd;
+    border-radius: 16px;
+    padding: 24px;
+    transition: all .3s ease-in;
+    box-sizing: border-box;
+}
+.apps-card-wrapper{
+    width: 25%;
+}
+/* .learning-apps-row{
+    margin-left: -16px !important;
+    margin-right: -16px !important;
+} */
+.apps-card-img-wrapper{
+    width: 62px;
+    height: 62px;
+    margin-bottom: 20px;
+}
+.apps-card-content-wrapper h4{
+    color: #101828;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 500;
+    height: 48px;
+    -webkit-line-clamp: 2;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: 50px;
+}
+.apps-card-content-wrapper p{
+    margin-bottom: 10px;
+    -webkit-line-clamp: 3;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: 70px;
+    color: #667085;
+    font-size: 15px;
+
+}
+.apps-card-content-wrapper span{
+    color: #6b46ff;
+    font-size: 14px;
+    font-weight: 500;
+}

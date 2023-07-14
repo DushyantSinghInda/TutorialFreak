@@ -1,0 +1,30 @@
+.footer-social-icons{
+    list-style: none;
+    margin-top: 15px;
+}
+.footer-social-icons li{
+    display: inline-flex;
+    margin-right: 1rem;
+}
+.social-logo{
+    font-size: 24px;
+    color: #667085;
+    transition: all .3s ease-in-out;
+    vertical-align: middle;
+}
+.social-logo:hover{
+    color: #6b46ff;
+}
+.footer-content{
+    opacity: 0.8;
+    color: #667085;
+    line-height: 24px;
+    font-size: 13px;
+    font-weight: 500;
+}
+.footer-content a{
+    color: #667085;
+}
+.footer-content a:hover{
+    color: #6b46ff;
+}

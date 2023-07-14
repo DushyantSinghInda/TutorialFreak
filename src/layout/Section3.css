@@ -1,0 +1,65 @@
+.courses-slider-section{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.courses-slider-content-wrapper{
+    width: 100%;
+    margin-bottom: 65px;
+}
+.courses-slider-content-wrapper p{
+    font-size: 20px;
+}
+.tutorial-freak-cards{
+    padding: 18px 20px 30px 20px;
+    margin: 0 10px;
+    border-radius: 16px;
+    transition: all .3s ease-in-out;
+    border-color: #eee;
+}
+.tutorial-freak-cards:hover{
+    box-shadow: 0 22px 66px rgba(102,112,133,.07),0 6px 24px rgba(102,112,133,.06)!important;
+}
+.tutorial-freak-cards img{
+    width: 62px;
+    height: 62px;
+    margin-bottom: 22px;
+}
+.tutorial-freak-cards h3{
+    font-size: 20px;
+    color: #101828;
+    line-height: 30px;
+    font-weight: 500;
+    
+}
+.card-title{
+    -webkit-line-clamp: 2;
+    min-height: 64px;
+}
+.tutorial-freak-cards:hover h3{
+    color: #6b46ff;
+}
+.tutorial-freak-cards p{
+    color: #667085;
+    line-height: 24px;
+    font-size: 16px;
+    -webkit-line-clamp: 3;
+    min-height: 76px;
+}
+.tutorial-freak-cards .card-para, .tutorial-freak-cards .card-title{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;   
+}
+.start-link{
+    color: #475467;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+
+}
+.tutorial-freak-cards:hover .start-link{
+    color: #6b46ff;
+}
+.slick-prev:before, .slick-next:before{
+    color: black !important;
+}

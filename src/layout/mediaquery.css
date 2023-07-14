@@ -1,0 +1,128 @@
+@media (max-width: 991px) { 
+    .banner-section{
+        background-image: none;
+    }
+    .banner-heading-wrapper h1{
+        font-size: 30px;
+        line-height: 40px;
+    }   
+    .banner-heading-wrapper p{
+        font-size: 18px;
+        line-height: 26px;
+    } 
+    .banner-boxes{
+        display: none !important;
+    }
+    .why-choose-card{
+        width: 100%;
+    }
+    .why-choose-left-section{
+        width: 90%;
+        margin: auto;
+        background-size: 88%;
+    }
+    .why-choose-right-section{
+        margin-bottom: 110px;
+    }
+    .courses-slider-section{
+        padding-bottom: 30px !important;
+    }
+    .courses-slider-content-wrapper p{
+        font-size: 18px !important;
+    }
+    .apps-card-wrapper{
+        width: 33.3% !important;
+    }
+    .setup-wrapper{
+        padding: 50px 60px !important;
+    }
+    .content-wrapper h2{
+        line-height: 36px !important;
+        font-size: 28px !important;
+    }
+    .content-wrapper p{
+        font-size:  18px !important;
+        margin-bottom: 40px !important;
+    }
+    .learning-content-wrapper h2{
+        font-size: 30px !important;
+    }
+    
+}
+@media (max-width: 767px){
+    .why-choose-left-column{
+        margin-right: 0px;
+    }
+    .why-choose-left-section{
+        width: 100%;
+        height: auto;
+        background: unset;
+        padding: 0;
+    }
+    .why-choose-right-section{
+        margin-bottom: 70px;
+    }
+    .apps-card-wrapper{
+        width: 50% !important;
+    }
+    .setup-wrapper{
+        padding: 40px 50px !important;
+    }
+    .content-wrapper h2{
+        line-height: 32px !important;
+        font-size: 25px !important;
+    }
+    .content-wrapper p{
+        font-size:  16px !important;
+        margin-bottom: 20px !important;
+    }
+}
+@media (max-width: 575px){
+    .why-choose-right-section p{
+        font-size: 18px !important;
+        margin-bottom: 34px !important;
+    }
+    .tf-btn{
+        padding: 10px 24px;
+        font-size: 14px;
+    }
+    .courses-slider-content-wrapper{
+        margin-bottom: 40px;
+    }
+    .apps-card-wrapper{
+        width: 100% !important;
+    }
+    .setup-wrapper{
+        padding: 40px 30px !important;
+    }
+    .content-wrapper h2{
+        line-height: 30px !important;
+        font-size: 22px !important;
+    }
+    .content-wrapper p{
+        font-size:  12px !important;
+        margin-bottom: 40px !important;
+        line-height: 20px !important;
+    }
+    .setup-btn{
+        width: 100%;
+        font-size: 16px;
+        margin-bottom: 15px;
+        display: block;
+        padding: 10px 18px;
+    }
+    
+}
+@media (min-width:992px) and (max-width: 1650px){
+    .compilor-icon-wrapper{
+        width: 35px !important;
+        height: 35px !important;
+        margin-right: 12px !important;
+    }
+    .card-body h5{
+        font-size: 14px !important;
+    }
+    .card-body span{
+        font-size: 11px !important;
+    }
+}
